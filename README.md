@@ -58,6 +58,8 @@ The machine is NOT a toy and if you want your kids to use it, its your own respo
      2.1.5 Place rubber washers over every T nut as in the picture (motor placement, bearings placement).
 
 2.2 Bearings, motor and alignment
+<img width="1296" height="528" alt="image" src="https://github.com/user-attachments/assets/1594c518-672a-4e79-b832-a77e128b3fef" />
+
 
      2.2.1 Place A to the far most edge of the (4) backframe and tighten all screws.
 
